@@ -1,0 +1,18 @@
+{
+  "name": "selenium_testing",
+  "version": "1.0.0",
+  "description": "Testing selenium capabilities",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "selenium"
+  ],
+  "author": "Stanley Yang",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^2.16.0",
+    "selenium-webdriver": "^2.46.1"
+  }
+}
